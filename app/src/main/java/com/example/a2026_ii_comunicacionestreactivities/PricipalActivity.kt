@@ -20,7 +20,11 @@ class PricipalActivity : AppCompatActivity() {
 
         val boton = findViewById<Button>(R.id.boton2)
         boton.setOnClickListener {
+            //Regrea a la actividad anterior
             //finish()
+
+
+            
             // Se abre el navegador con la pagina de WhatsApp
             /*
             val numero = "5512345678"
