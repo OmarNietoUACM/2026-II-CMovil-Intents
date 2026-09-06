@@ -1,4 +1,4 @@
-# Ejercicio 2.  MiPrimerApp
+# Ejercicio 2.  Uso de Intents Implicitos y Explicitos
 
 En el ejericio  realiza una aplicación sencilla donde se
 diseñaron dos Activities, la primera se diseñó como si fuera un 
