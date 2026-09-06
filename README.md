@@ -31,6 +31,6 @@ Se utilizaron los objetos **Intent** Implicitos y Explicitos
 ![Captura de pantalla de Android ShareSheet](images/AndroidShareSheet.png
 "Captura de pantalla de Android ShareSheet")
 
-
+<img src="./images/AndroidShareSheet.png"  width="200">
 
 
