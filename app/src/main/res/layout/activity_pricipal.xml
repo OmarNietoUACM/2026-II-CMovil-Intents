@@ -25,9 +25,47 @@
         android:layout_height="wrap_content"
         android:text="Regresar"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_mesaje"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/botonWhatsAppWeb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WhatsApp Web"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/boton2"
+        android:layout_marginTop="50dp"/>
+    <Button
+        android:id="@+id/botonWhatsApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WhatsApp App"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botonWhatsAppWeb"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/botonSendAgen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Agente de Resolución de Intent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botonWhatsApp"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/botonSharesheet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android Sharesheet"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botonSendAgen"
         android:layout_marginTop="50dp"/>
 
 
