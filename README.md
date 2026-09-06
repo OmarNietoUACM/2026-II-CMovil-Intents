@@ -23,14 +23,20 @@ Se utilizaron los objetos **Intent** Implicitos y Explicitos
 
 
 
-![Captura de pantalla de la Activity1](images/Activity1.png
-"Captura de pantalla de la Activity1")
+[//]: ![Captura de pantalla de la Activity1](images/Activity1.png "Captura de pantalla de la Activity1")
+<div>
+    <img src="./images/Activity1.png"  alt="Captura de pantalla de la Activity1" width="200" >
+</div>
 
-![Captura de pantalla de la Activity2](images/Activity2.png "Captura de pantalla de la Activity2")
 
-![Captura de pantalla de Android ShareSheet](images/AndroidShareSheet.png
-"Captura de pantalla de Android ShareSheet")
+[//]: ![Captura de pantalla de la Activity2](images/Activity2.png "Captura de pantalla de la Activity2")
+<div>
+    <img src="./images/Activity2.png"  alt="Captura de pantalla de la Activity2" width="200" >
+</div>
 
-<img src="./images/AndroidShareSheet.png"  width="200">
 
+![Captura de pantalla de Android ShareSheet](images/AndroidShareSheet.png "Captura de pantalla de Android ShareSheet")
+<div>
+    <img src="./images/AndroidShareSheet.png"  alt="Captura de pantalla de Android ShareSheet" width="200" >
+</div>
 
